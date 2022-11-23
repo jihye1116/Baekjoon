@@ -1,3 +1,4 @@
+# 오븐 시계
 hour, min= map(int, input().split())
 cooking = int(input())
 

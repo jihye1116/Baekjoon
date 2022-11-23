@@ -1,3 +1,4 @@
+# 영수증
 price = int(input())
 n = int(input())
 sum = 0

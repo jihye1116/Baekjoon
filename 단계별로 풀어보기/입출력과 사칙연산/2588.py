@@ -1,3 +1,4 @@
+# 곱셈
 a = input()
 b = input()
 for i in range(2, -1, -1):
