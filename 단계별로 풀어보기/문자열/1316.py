@@ -1,3 +1,4 @@
+# 그룹 단어 체커
 n = int(input())
 
 group_word = 0
